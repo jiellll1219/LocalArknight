@@ -2,7 +2,7 @@
 
 此仓库为LocalArknights 1.9.3 Beta 3.jar的反编译源码
 
-原仓库已于2021年停止更新并进行删库，倒卖风波已过，因此公开该代码以方便各位搭建、游玩和学习此仓库仅供内容保留，仓库所有者仅进行源代码修复，不会进行任何游戏内容的更新
+原仓库已于2021年停止更新并进行删库
 
 [资源文件仓库](https://github.com/jiellll1219/LocalArns-res) [源代码仓库](https://github.com/jiellll1219/LocalArns)
 
