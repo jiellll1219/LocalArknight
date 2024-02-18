@@ -4,7 +4,7 @@
 
 原仓库已于2021年停止更新并进行删库
 
-[资源文件仓库](https://github.com/jiellll1219/LocalArknight-res) [源代码仓库](https://github.com/jiellll1219/LocalArrknight)
+[资源文件仓库](https://github.com/jiellll1219/LocalArknight-res) [源代码仓库](https://github.com/jiellll1219/LocalArknight)
 
 ## 如何构建jar
 **前置条件**
