@@ -1,3 +1,5 @@
-package com.hypergryph.arknights.command;public interface ICommandSender {
+package com.hypergryph.arknights.command;
+
+public interface ICommandSender {
   String getName();
 }

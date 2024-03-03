@@ -19,6 +19,6 @@ MAVEN 不低于3.8.1
 ```sheell
 git clone https://github.com/jiellll1219/LocalArns.git
 cd LocalArns
-./mvn clean package
+mvn clean package
 ```
 
